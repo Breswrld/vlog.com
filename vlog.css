@@ -2,7 +2,7 @@
 
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;900&display=swap');
-.container {margin: 0;
+* {margin: 0;
 padding: 0;
 box-sizing: border-box;
 font-family: 'poppins',sans-serif;
@@ -69,11 +69,11 @@ p { width: 95%;
         color: #080808;
         position: relative;
          text-align: justify;
-           margin: 1.5%;
+           margin: 1%;
             align-content: center;
     line-height: 2em;
     text-indent: 35px;
-    font-family:'Times New Roman', Times, serif;
+    font-family:''poppins',sans-serif;
   }
 .fwh-slide{
         height: 5%;
